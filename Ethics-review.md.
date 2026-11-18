@@ -1,1 +1,97 @@
+Ethics Review – Visual Screening AI Assistant
 
+1. Introduction
+
+Visual Screening AI Assistant is an educational artificial intelligence project designed to collect information about visual symptoms and help users understand whether a professional eye examination may be advisable.
+
+Since the project operates in a health-related context, ethical considerations are essential. The system must be transparent, protect user privacy, avoid misleading information and clearly communicate its limitations.
+
+This ethics review examines four main areas: privacy, bias, transparency and accountability.
+
+2. Privacy and Data Protection
+
+The assistant may collect information about users’ visual symptoms, age range, visual habits and use of glasses or contact lenses.
+
+Although the project is educational, some of this information may constitute sensitive health-related data.
+
+To protect users’ privacy:
+
+* The assistant should not request names, addresses or other unnecessary identifying information.
+* Users should avoid entering personal or confidential medical information.
+* Only information necessary for the educational screening should be collected.
+* Access to conversations and collected information should be appropriately protected.
+* Any use of real user data for testing or demonstration should follow applicable data protection requirements.
+
+The project encourages the use of simulated responses during testing and educational activities.
+
+3. Bias and Fairness
+
+AI systems may produce inaccurate or incomplete interpretations because of limitations in their training data and language models.
+
+Visual symptoms can vary considerably between individuals depending on age, visual habits, medical history and other factors.
+
+Potential risks include:
+
+* Giving greater importance to some symptoms than others.
+* Failing to recognize less common visual complaints.
+* Producing different explanations for similar answers.
+* Making assumptions based on age or visual habits.
+* Overlooking individual differences.
+
+To reduce these risks, the assistant should use neutral questions, avoid assumptions and clearly communicate uncertainty.
+
+The system must not exclude users or provide different levels of attention based on personal characteristics.
+
+4. Transparency and Explainability
+
+Users must understand that they are interacting with an artificial intelligence system and not with a healthcare professional.
+
+The assistant should clearly explain:
+
+* That it is an AI-powered educational screening tool.
+* That its assessment is based on the information provided by the user.
+* That possible visual conditions are suggestions for further investigation, not diagnoses.
+* That symptoms alone cannot establish the presence of a refractive error or ocular disease.
+* That a professional examination is necessary to assess visual function accurately.
+
+The assistant should explain the reasons behind its recommendations using clear and accessible language.
+
+5. Accountability and Human Oversight
+
+The project developers are responsible for testing the assistant, checking its behavior and ensuring that its instructions include appropriate safety limitations.
+
+The system must:
+
+* Never provide a definitive medical diagnosis.
+* Never prescribe glasses, contact lenses or medication.
+* Avoid giving false reassurance about visual health.
+* Recommend professional assessment when symptoms are persistent or unexplained.
+* Advise urgent medical evaluation when users report sudden vision loss, severe eye pain or sudden double vision.
+
+Human professional judgment must always take priority over AI-generated suggestions.
+
+The assistant is intended to support education and awareness, not replace optometrists or ophthalmologists.
+
+6. Potential Risks and Limitations
+
+The main ethical risks associated with the project include:
+
+* Users interpreting an educational screening as a medical diagnosis.
+* Incorrect or incomplete AI-generated explanations.
+* Overreliance on automated recommendations.
+* Sharing unnecessary personal or health-related information.
+* Failure to recognize symptoms requiring urgent assessment.
+
+These risks are addressed through explicit disclaimers, cautious language, privacy recommendations and clear referral guidance.
+
+7. Ethical Conclusion
+
+Visual Screening AI Assistant demonstrates the potential of artificial intelligence as an educational resource in optics and optometry.
+
+However, its use requires awareness of the limitations and responsibilities associated with AI in health-related contexts.
+
+Privacy, fairness, transparency and human oversight are essential principles for the responsible development and use of this prototype.
+
+The project aims to promote visual health awareness while reinforcing the importance of professional eye examinations and responsible use of artificial intelligence.
+
+Final Statement: This system is an educational prototype and must not be used as a substitute for professional medical or optometric assessment.

@@ -98,7 +98,7 @@ It encourages users to pay attention to their visual well-being while helping st
 9. Try the Assistant
 
 You can interact with the Visual Screening AI Assistant through the following public chat link:
-
+https://otti2.app.n8n.cloud/webhook/8623bdca-3b2b-465d-b7e9-efedd9411a52/chat
 Open Visual Screening AI Assistant
 
 10. Video Demonstration
@@ -106,6 +106,7 @@ Open Visual Screening AI Assistant
 Watch the project demonstration video:
 
 Watch the Visual Screening AI Assistant Demo
+https://drive.google.com/file/d/15aw8KpuqESZ5LURCC4tKsmhFWl2EORkG/view?usp=drive_link
 
 11. Conclusion
 
